@@ -1,3 +1,3 @@
 # stadca01.github.io
 
-fglkjfgs;llkjadflklj
+This is a webpage being designed for my Fundamentals of web programming class.
