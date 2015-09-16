@@ -1,0 +1,25 @@
+ <style>
+        body{
+            background-color: #ACFFD6;
+}
+      .must {
+         background-color: red;
+      }
+      .trivial {
+         background-color: orange;
+      }
+      .notimportant{
+        background-color: gray;
+      }
+      .done{
+        text-decoration: line-through;
+      }
+        h1{
+            color:#522900;
+        }
+        p{
+          color:#522900;
+          font-size:18;
+          font-family:Arial;
+}
+ </style>
