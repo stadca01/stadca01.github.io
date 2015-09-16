@@ -1,18 +1,22 @@
-       <style>
-       body{
+body{
             background-color: #ACFFD6;
 }
       .must {
          background-color: red;
+         color:white;
       }
       .trivial {
          background-color: orange;
+         color:brown;
       }
       .notimportant{
         background-color: gray;
+        color:black;
       }
       .done{
         text-decoration: line-through;
+        color:cyan;
+        background-color:;
       }
         h1{
             color:#522900;
@@ -22,4 +26,3 @@
           font-size:18;
           font-family:Arial;
 }
-</style>
