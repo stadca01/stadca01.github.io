@@ -4,9 +4,16 @@ nav{
   width: 100%;
   text-align: center;
   background-color: rgb(22,22,122);
-  text-color: rgb(255,255,255)
+  color: rgb(255,255,255)
+  font-size:28pt;
+  word-spacing: 100px;
 }
-  
+
+body{
+  font-size: 22pt;
+  color: rgb(210,50,160);
+}
+
 .left{
   float:left;
 }
