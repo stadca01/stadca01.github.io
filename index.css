@@ -6,6 +6,8 @@ nav{
   background-color: rgb(22,22,122);
   color: rgb(255,255,255)
   font-size:28pt;
+  top:0px;
+  left:0px;
 }
 body{
   font-size: 22pt;
