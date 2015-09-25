@@ -9,6 +9,10 @@ nav{
   margin:100px;
 }
 
+head{
+  top-margin:100px
+}
+
 body{
   font-size: 22pt;
   color: rgb(210,50,160);
