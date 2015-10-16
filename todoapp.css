@@ -2,7 +2,22 @@
       body {
            width: 100%;
            background-color: white;
-           border: 10px royal blue;
+           border: 10px blue;
            margin: 25px;
            }
+           .high {
+         color: red;
+      }
+      
+      .medium {
+         color: yellow;
+      }
+      
+      .low{
+        color: white;
+      }
+      
+      .done{
+        text-decoration: line-through;
+        color:cyan;
       </style>
