@@ -1,9 +1,11 @@
 
       body {
-           width: 100%;
+           width: 640px;
+           height:480px;
            color: white;
            border: 10px blue;
            margin: 25px;
+           padding: 50px;
            }
            .high {
          color: red;
