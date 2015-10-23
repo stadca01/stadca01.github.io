@@ -1,31 +1,29 @@
 <html>
 <head>
-    <style>
-        body{
-            background-color: rgb(55,72,249);
-        }
-        
-        main{
-            height:480px;
-            width: 640px;
-            background-color: rgb(255, 0, 102);
-            margin-top: auto;
-            margin-bottom: auto;
-            margin-left: auto;
-            margin-right:auto;
-        }
-        h1{
-            margin:25px;
-            color: lime green;
-        }
-    </style>
+
 </head>
+
     <title>to do app!</title>
+
 <body> 
+
 <h1>What to do, What to do...</h1>
+
 <main>
-  <p> this is my main.</p>  
+  <ul id= "#tasklist">  
 </main>
+<aside>
+<br>
+  <input id="#taskbox" type="text" value="task" size="60"/>
+<select id="priority">
+
+<option>high</option>
+<option>medium</option>
+<option>low</option>
+</select>
+
+<button onclick="addTask()">add task</button>
+</aside>
 </body>    
 
 </html>
