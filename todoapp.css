@@ -1,24 +1,46 @@
 
-      body {
-           width: 640px;
-           height:480px;
-           color: green;
-           border: 10px blue;
-           margin: 25px;
-           padding: 50px;
-           }
-           .high {
-         color: red;
-      }
-      
-      .medium {
-         color: yellow;
-      }
-      
-      .low{
-        color: white;
-      }
-      
-      .done{
-        text-decoration: line-through;
-        color:cyan;
+ body{
+
+            background-color: rgb(55,72,249);
+        }
+        
+        main{
+
+            height:480px;
+            width: 640px;
+            background-color: rgb(255, 0, 102);
+            margin-top: auto;
+            margin-bottom: auto;
+            margin-left: auto;
+            margin-right:auto;
+        }
+
+        h1{
+
+            margin-left: auto;
+            margin-right: auto;
+            color: limegreen;
+
+          }
+
+        p{
+
+        font-size: 24pt;
+
+          .high{
+
+            text-color: limegreen;
+
+          }
+          
+          .medium{
+
+            text-color: orange;
+          }
+
+          
+          .low{
+
+            text-color: grey;
+          }
+
